@@ -32,4 +32,4 @@ The analysis of the election show that:
      - Candidate Diane DeGette who received 73.8% of the vote and 272,892 votes.
 ## Challenge Summany
 ![ExcelSpreadsheet](https://github.com/mabulhassan/Election_Analysis/blob/main/Resources/election_results.csv)
-![results](https://github.com/mabulhassan/Election-Analysis/blob/main/analysis/election_analysis.txt)
+![results](https://github.com/mabulhassan/Election_Analysis/blob/main/analysis/election_analysis.txt)
